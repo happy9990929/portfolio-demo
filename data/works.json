@@ -1,0 +1,171 @@
+{
+  "projects": [
+    {
+      "id": "lite",
+      "title": "詠真實業股份有限公司",
+      "pictrue": "lite.jpg",
+      "image01": "/lite/1.jpg",
+      "image02": "/lite/2.jpg",
+      "image03": "/lite/3.jpg",
+      "image04": "/lite/4.jpg",
+      "image05": "/lite/5.jpg",
+      "image06": "/lite/6.jpg",
+      "image07": "/lite/7.jpg",
+      "image08": "/lite/8.jpg",
+      "skill": "型錄​設計",
+      "content": "研發製造居家、飯店、商業空間及舞台使用之燈光控制系統"
+    },
+    {
+      "id": "cactus",
+      "title": "仙人掌甜品",
+      "pictrue": "cactus.jpg",
+      "image01": "/cactus/1.jpg",
+      "image02": "/cactus/2.jpg",
+      "skill": "Logo設計, 菜單設計",
+      "content": "甜品店，提供雪花冰、嫩仙草、豆花等餐點"
+    },
+    {
+      "id": "hh",
+      "title": "禾祥禎有限公司",
+      "pictrue": "hh.jpg",
+      "image01": "/hh/1.jpg",
+      "image02": "/hh/2.jpg",
+      "image03": "/hh/3.jpg",
+      "image04": "/hh/4.jpg",
+      "image05": "/hh/5.jpg",
+      "image06": "/hh/6.jpg",
+      "skill": "型錄​設計、海報設計",
+      "content": "專業製造TPR(SEBS.SBS)TPO.TPV.TPE環保膠粒可應用於射出.押出雙料結合製品"
+    },
+    {
+      "id": "bearshow",
+      "title": "熊出沒、熊大肌",
+      "pictrue": "bearshow.jpg",
+      "image01": "/bearshow/1.jpg",
+      "image02": "/bearshow/2.jpg",
+      "image03": "/bearshow/3.jpg",
+      "skill": "Logo設計, 名片設計",
+      "content": "寵物食品販售、健身健康產業"
+    },
+    {
+      "id": "dunHaung",
+      "title": "盾皇高分子科技有限公司",
+      "pictrue": "dunHaung.jpg",
+      "image01": "/dunHaung/1.jpg",
+      "image02": "/dunHaung/2.jpg",
+      "skill": "Logo設計, 貼標設計",
+      "content": "汽車專用儀表 / 導航 9H 鋼化玻璃保護貼"
+    },
+    {
+      "id": "fish",
+      "title": "漁多甜",
+      "pictrue": "fish.jpg",
+      "image01": "/fish/1.jpg",
+      "skill": "Logo設計",
+      "content": "日式料理店，提供各式壽司等餐點"
+    },
+    {
+      "id": "hontech",
+      "title": "宏泰開發工業股份有限公司",
+      "pictrue": "hontech.jpg",
+      "image01": "/hontech/1.jpg",
+      "image02": "/hontech/2.jpg",
+      "image03": "/hontech/3.jpg",
+      "image04": "/hontech/4.jpg",
+      "image05": "/hontech/5.jpg",
+      "image06": "/hontech/6.jpg",
+      "image07": "/hontech/7.jpg",
+      "image08": "/hontech/8.jpg",
+      "skill": "型錄​設計",
+      "content": "行動電話, POS相關設備, 顯示器轉盤, 其他電腦零組件, LCD支架等產品及服務"
+    },
+    {
+      "id": "shinn",
+      "title": "信榮螺絲企業股份有限公司",
+      "pictrue": "shinn.jpg",
+      "image01": "/shinn/1.jpg",
+      "image02": "/shinn/2.jpg",
+      "image03": "/shinn/3.jpg",
+      "image04": "/shinn/4.jpg",
+      "image05": "/shinn/5.jpg",
+      "image06": "/shinn/6.jpg",
+      "skill": "型錄​設計",
+      "content": "螺絲製造"
+    },
+    {
+      "id": "tpf",
+      "title": "商匯興業有限公司",
+      "pictrue": "tpf.jpg",
+      "image01": "/tpf/1.jpg",
+      "image02": "/tpf/2.jpg",
+      "image03": "/tpf/3.jpg",
+      "skill": "海報設計、X型展架組",
+      "content": "螺絲專業生產製造"
+    },
+    {
+      "id": "ann",
+      "title": "健安養生事業坊",
+      "pictrue": "ann.jpg",
+      "image01": "/ann/1.jpg",
+      "image02": "/ann/2.jpg",
+      "skill": "開門折DM設計",
+      "content": "提供產後媽媽月子餐點服務"
+    },
+    {
+      "id": "industrial",
+      "title": "Banner-EDM 工業類",
+      "pictrue": "industrial.jpg",
+      "image01": "/industrial/1.jpg",
+      "image02": "/industrial/2.jpg",
+      "image03": "/industrial/3.jpg",
+      "image04": "/industrial/4.jpg",
+      "image05": "/industrial/5.jpg",
+      "image06": "/industrial/6.jpg",
+      "image07": "/industrial/7.jpg",
+      "skill": "Banner​設計、EDM設計",
+      "content": "腳踏車、機車零件，極細微粒碳化鎢"
+    },
+    {
+      "id": "beauty",
+      "title": "Banner-EDM 美容/美髮/保養類",
+      "pictrue": "beauty.jpg",
+      "image01": "/beauty/1.jpg",
+      "image02": "/beauty/2.jpg",
+      "image03": "/beauty/3.jpg",
+      "image04": "/beauty/4.jpg",
+      "image05": "/beauty/5.jpg",
+      "image06": "/beauty/6.jpg",
+      "image07": "/beauty/7.jpg",
+      "image08": "/beauty/8.jpg",
+      "skill": "Banner​設計、EDM設計",
+      "content": "美容美髮，臉部、身體健康保養"
+    },
+    {
+      "id": "business",
+      "title": "Banner-EDM 商業類",
+      "pictrue": "business.jpg",
+      "image01": "/business/1.jpg",
+      "image02": "/business/2.jpg",
+      "image03": "/business/3.jpg",
+      "image04": "/business/4.jpg",
+      "image05": "/business/5.jpg",
+      "skill": "Banner​設計、EDM設計",
+      "content": "飲用水、課程報名、餐廳、文具"
+    },
+    {
+      "id": "best",
+      "title": "貝思捷國際有限公司",
+      "pictrue": "best.jpg",
+      "image01": "/best/1.jpg",
+      "image02": "/best/2.jpg",
+      "image03": "/best/3.jpg",
+      "image04": "/best/4.jpg",
+      "image05": "/best/5.jpg",
+      "image06": "/best/6.jpg",
+      "image07": "/best/7.jpg",
+      "image08": "/best/8.jpg",
+      "skill": "型錄​設計、海報設計",
+      "content": "EVA發泡產品、家用地墊、玩具、鐵件家具、配件、NBR防撞產品、園藝墊等相關產品"
+    }
+  ]
+}

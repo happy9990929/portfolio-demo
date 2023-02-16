@@ -32,7 +32,7 @@ export default {
 }
 .header_logo_box {
   height: 55px;
-  background-color: #fff;
+  background-color: #f6f6f6;
   @media screen and (min-width: 769px) {
     height: 90px;
   }
